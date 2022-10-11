@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @finnmyers96
 - 👀 I’m interested in applying data science and machine learning to solve pressing environmental and social issues
-- 🌱 I’m currently learning sklearn and tensorflow in addition to pursuing a M.S. degree in Environmental Engineering focused on water resources at the University 
-     of Vermont.
+- 🌱 I’m currently pursuing a M.S. degree in Environmental Engineering focused on water resources at the University of Vermont.
 - 📫 How to reach me: george.myers@uvm.edu
 
 <!---
