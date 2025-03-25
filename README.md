@@ -1,5 +1,31 @@
-Hi, I’m Harrison Myers!
+# 👋 Hi, I'm Harrison Myers!
 
-I’m a pre-doctoral research fellow pursuing a PhD in Environmental Engineering at UVM with a focus in complex systems and data science. My research focuses on using machine learning, deep learning, and other advanced computational methods to improve forecasting and understanding of water quality and water quantity dynamics to guide management of water resources.
-  
-How to reach me: george.myers@uvm.edu
+**PhD Candidate | Machine Learning Engineer | Environmental Data Scientist**  
+🌎 Passionate about leveraging AI to solve complex, real-world problems in earth systems science and beyond.
+
+---
+
+## About Me
+
+I'm a machine learning engineer and PhD candidate at the University of Vermont, where I develop predictive models for environmental systems using tools like **graph neural networks**, **computer vision**, and **spatiotemporal deep learning**. I’m especially interested in how AI can improve understanding and management of natural resources, from **river turbidity forecasting** to **floodplain oxygen modeling**.
+
+My work combines:
+- **Advanced machine learning** (GNNs, LSTMs, CNNs, ViTs)  
+- **Geospatial analytics & remote sensing** (Planet imagery, GEE, rasterio)  
+- **Data pipeline engineering** (custom ETL workflows, SLURM, shell scripting)
+
+---
+
+## Get in Touch
+
+-  [LinkedIn](https://www.linkedin.com/in/harrison-myers-eit-b37156181/)
+-  ghmyers96@gmail.com
+
+---
+
+## Stack Highlights
+
+`Python` | `PyTorch` | `TensorFlow` | `Scikit-Learn` | `Google Earth Engine`  
+`Docker` | `FastAPI` | `SLURM` | `SQL` | `Git` | `NetworkX` | `GeoPandas`
+
+---
