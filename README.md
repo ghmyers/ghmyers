@@ -13,6 +13,7 @@ My work combines:
 - **Advanced machine learning** (GNNs, LSTMs, CNNs, ViTs)  
 - **Geospatial analytics & remote sensing** (Planet imagery, GEE, rasterio)  
 - **Data pipeline engineering** (custom ETL workflows, SLURM, shell scripting)
+- **Communicating research** (through technical writing, conference presentations, workshops, guest lectures)
 - **Creating beautiful visualizations** (Distilling complex data and concepts into aesthetic, easy to understand figures; see examples below)
 
 ![Past and Future Flood Recovery](figures/current_and_future_flood_recovery.png)
