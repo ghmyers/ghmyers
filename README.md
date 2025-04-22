@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harrison Myers!
 
 **PhD Student | Machine Learning Engineer | Environmental Data Scientist**  
-🌎 Passionate about leveraging AI to solve complex, real-world problems in earth systems science and beyond.
+🌎 Passionate about leveraging AI to solve complex, real-world problems in water, agriculture, public health, and beyond.
 
 ---
 
