@@ -20,7 +20,7 @@ My work combines:
 ***Within a context of increased frequency and intensity of flooding, the (a) current “landscape” of flood recovery is decentralized and siloed by jurisdiction leading to costly, repetitive and overlapping cycles of flood damage and repair that are unsustainable.  We envision (b) a future in which communities become more flood resilient when the cycle of repeat flood damages is broken through adoption of transformative approaches to recovery including systems-based assessment, multi-objective optimization and integrated prioritization and delivery of resources.***
 
 ![Simplified Conceptual Model of Floodplain DO Dynamics](figures/beeswarm_plot.png)
-***Beeswarm plot of feature attributions across the three models: a) river LSTM model, b) floodplain LSTM model, c) TL LSTM model. The vertical grey line represents the expected value of the model predictions, any values to the left of the grey line represent lower than average predictions, and vice versa for positive values. The color bar represents a gradient of low to high feature values for each input feature. Features are ranked by the magnitude of their SHAP value from top to bottom.***
+***Beeswarm plot of feature attributions across three models: a) river LSTM model, b) floodplain LSTM model, c) TL LSTM model. The vertical grey line represents the expected value of the model predictions, any values to the left of the grey line represent lower than average predictions, and vice versa for positive values. The color bar represents a gradient of low to high feature values for each input feature. Features are ranked by the magnitude of their mean SHAP value from top to bottom.***
 
 
 ---
