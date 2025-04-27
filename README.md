@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a machine learning engineer and PhD student at the University of Vermont, where I develop predictive models for environmental systems using tools like **graph neural networks**, **computer vision**, and **spatiotemporal deep learning**. I’m especially interested in how AI can improve understanding and management of natural resources, from **river turbidity forecasting** to **agricultural water and nutrient management** to **floodplain oxygen modeling**.
+I'm a data scientist, machine learning engineer, and PhD student at the University of Vermont, where I develop predictive models for environmental systems using tools like **graph neural networks**, **computer vision**, and **spatiotemporal deep learning**. I’m especially interested in how AI can improve understanding and management of natural resources, from **river turbidity forecasting** to **agricultural water and nutrient management** to **floodplain oxygen modeling**.
 
 My work combines:
 - **Advanced machine learning** (GNNs, LSTMs, CNNs, ViTs)  
