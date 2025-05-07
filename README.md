@@ -16,6 +16,9 @@ My work combines:
 - **Effective communication** (through technical writing, conference presentations, workshops, lectures)
 - **Creating beautiful visualizations** (Distilling complex data and concepts into aesthetic, easy to understand figures; see examples below)
 
+![LSTM Model Predictions of Floodplain DO](figures/LF2_model_predictions_stage_shaded.png)
+***Model predictions of floodplain DO at LF2 for the three models. The observed DO is displayed as the light gray dashed line, vs. the river LSTM model DO predictions (light blue line), the floodplain LSTM model DO predictions (dark blue line), and the TL LSTM model DO predictions (dark gray line). Wet periods (i.e., water level on the floodplain was greater than or equal to five centimeters) are shaded light blue, and dry periods (i.e., water level on the floodplain was less than five centimeters) are shaded brown for context. Periods where stage data were not recorded or were erroneous are shaded with a light gray hatched pattern. The random testing period is delineated by the red arrow at the top of the figure. LSTM model predictions rely on scaled discharge from a nearby USGS gage rather than floodplain water stage as an input.***
+
 ![Past and Future Flood Recovery](figures/current_and_future_flood_recovery.png)
 ***Within a context of increased frequency and intensity of flooding, the (a) current “landscape” of flood recovery is decentralized and siloed by jurisdiction leading to costly, repetitive and overlapping cycles of flood damage and repair that are unsustainable.  We envision (b) a future in which communities become more flood resilient when the cycle of repeat flood damages is broken through adoption of transformative approaches to recovery including systems-based assessment, multi-objective optimization and integrated prioritization and delivery of resources.***
 
