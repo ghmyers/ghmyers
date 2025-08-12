@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harrison Myers!
 
-**Data Scientist | Machine Learning Researcher |PhD Candidate**  
+**Data Scientist | Machine Learning Researcher | PhD Candidate**  
 🌎 Passionate about leveraging AI to solve complex, real-world problems in water, agriculture, climate, and beyond.
 
 ---
