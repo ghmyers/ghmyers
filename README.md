@@ -1,20 +1,23 @@
-# 👋 Hi, I'm Harrison Myers!
+# Harrison Myers
 
-**Data Scientist | Machine Learning Researcher | PhD Candidate**  
-🌎 Passionate about leveraging AI to solve complex, real-world problems in water, agriculture, climate, and beyond.
+ML Scientist | Spatiotemporal Modeling · GNNs · Remote Sensing  
+PhD Candidate, Environmental Engineering & Complex Systems · University of Vermont
 
+I build machine learning systems for structured, spatiotemporal data — deploying 
+CNNs, LSTMs, and GNNs on satellite imagery and sensor networks to model 
+environmental systems at scale. Current research focuses on water quality 
+forecasting and pollution source identification across U.S. river networks.
 ---
 
 ## About Me
 
-I'm a data scientist, machine learning researcher, and PhD candidate at the University of Vermont, where I develop predictive models for environmental systems using tools like **graph neural networks**, **computer vision**, and **spatiotemporal deep learning**. I’m especially interested in how AI can improve understanding and management of natural resources, from **river turbidity forecasting** to **agricultural water and nutrient management** to **floodplain oxygen modeling**.
+I'm a data scientist, machine learning researcher, and PhD candidate at the University of Vermont, where I develop predictive models for environmental systems using tools like **graph neural networks**, **computer vision**, and **spatiotemporal deep learning**. I'm especially interested in applying AI to complex environmental and Earth systems — from water quality forecasting and pollution source identification to agricultural monitoring and climate risk modeling.
 
 My work combines:
 - **Advanced machine learning** (GNNs, LSTMs, CNNs, ViTs)  
 - **Geospatial analytics & remote sensing** (Planet imagery, GEE, rasterio)  
 - **Data pipeline engineering** (custom ETL workflows, SLURM, shell scripting)
-- **Effective communication** (through technical writing, conference presentations, workshops, lectures)
-- **Creating beautiful visualizations** (Distilling complex data and concepts into aesthetic, easy to understand figures; see examples below)
+- **Publication-quality visualizations** (Matplotlib; Seaborn)
 
 ![LSTM Model Predictions of Floodplain DO](figures/LF2_model_predictions_stage_shaded.png)
 ***Model predictions of floodplain DO at LF2 for the three models. The observed DO is displayed as the light gray dashed line, vs. the river LSTM model DO predictions (light blue line), the floodplain LSTM model DO predictions (dark blue line), and the TL LSTM model DO predictions (dark gray line). Wet periods (i.e., water level on the floodplain was greater than or equal to five centimeters) are shaded light blue, and dry periods (i.e., water level on the floodplain was less than five centimeters) are shaded brown for context. Periods where stage data were not recorded or were erroneous are shaded with a light gray hatched pattern. The random testing period is delineated by the red arrow at the top of the figure. LSTM model predictions rely on scaled discharge from a nearby USGS gage rather than floodplain water stage as an input.***
