@@ -1,6 +1,6 @@
 # Harrison Myers
 
-### ML Scientist | Spatiotemporal Modeling · GNNs · Remote Sensing | PhD Candidate, Environmental Engineering + Complex Systems $ Data Science · University of Vermont
+### ML Scientist | Spatiotemporal Modeling · GNNs · Remote Sensing | PhD Candidate, Environmental Engineering + Complex Systems & Data Science · University of Vermont
 
 #### I build machine learning systems for structured, spatiotemporal data, deploying CNNs, LSTMs, and GNNs on satellite imagery, distributed sensors, and network topology to model environmental systems at scale. My current research focuses on water quality forecasting and pollution source identification across river networks.
 ---
