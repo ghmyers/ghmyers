@@ -13,13 +13,16 @@ My PhD research focuses on spatiotemporal deep learning for water quality and qu
 ---
 
 Check out some examples of my work below!
-
+### Transfer learning improves predictions of floodplain dissolved oxygen
 ![Transfer Learning Improves Predictions of Floodplain Dissolved Oxygen](figures/LF2_model_predictions_stage_shaded.png)
 
+### IG feature attributions recover drainage-area dependent process-controls on sediment transport dynamics
 ![IG Feature Attributions Recover Drainage-Area Dependent Process-Controls on Sediment Transport Dynamics](figures/fig5_ig_attribution.png)
 
+### GNN excels at predicting sources of turbidity within a river network
 ![GNN excels at predicting sources of turbidity within a river network](figures/fig4_source_tracing.png)
 
+### Conceptual diagram of current and future flood recovery
 ![Conceptual Diagram of Past and Future Flood Recovery](figures/current_and_future_flood_recovery.png)
 
 ---
