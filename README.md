@@ -36,7 +36,7 @@ Check out some examples of my work below!
 
 ## Stack Highlights
 
-`Python` | `PyTorch` | `TensorFlow` | `Scikit-Learn` | `Google Earth Engine`  
-`Docker` | `FastAPI` | `SLURM` | `SQL` | `Git` | `NetworkX` | `GeoPandas`
+`Python` | `PyTorch` | `TensorFlow` | `Scikit-Learn` | `NetworkX`
+`Google Earth Engine` | `SLURM` | `SQL` | `Git` | `GeoPandas`
 
 ---
